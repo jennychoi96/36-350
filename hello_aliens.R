@@ -1,4 +1,4 @@
-print("Hello aliens!
+cat("Hello aliens!
 
 My name is Jenny from the earth. 
 Here in earth, we have water, food and people called human!
